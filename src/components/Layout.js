@@ -1,3 +1,4 @@
+/* The class is a React component that renders the HTML head and body of the page. */
 import _ from 'lodash';
 import React from 'react';
 import { Helmet } from 'react-helmet';
@@ -11,9 +12,12 @@ export default class Body extends React.Component {
             <React.Fragment>
                 <Helmet>
                     <title>
+                        {' '}
                         {_.get(this.props, 'pageContext.frontmatter.seo.title', null)
                             ? _.get(this.props, 'pageContext.frontmatter.seo.title', null)
-                            : _.get(this.props, 'pageContext.frontmatter.title', null) + ' | ' + _.get(this.props, 'pageContext.site.siteMetadata.title', null)}
+                            : _.get(this.props, 'pageContext.frontmatter.title', null) +
+                              ' | ' +
+                              _.get(this.props, 'pageContext.site.siteMetadata.title', null)}{' '}
                     </title>
                     <meta charSet="utf-8" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
@@ -51,7 +55,7 @@ export default class Body extends React.Component {
                     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
                     <meta charSet="utf-8" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
-                    <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.seo.description', null) || ''} />
+                    <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.seo.description', null) || ''} />{' '}
                     {_.get(this.props, 'pageContext.frontmatter.seo.robots', null) && (
                         <meta name="robots" content={_.join(_.get(this.props, 'pageContext.frontmatter.seo.robots', null), ',')} />
                     )}
@@ -70,7 +74,7 @@ export default class Body extends React.Component {
                         );
                     })}
                     <link rel="preconnect" href="https://fonts.gstatic.com" />
-                    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
+                    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />{' '}
                     {_.get(this.props, 'pageContext.site.siteMetadata.favicon', null) && (
                         <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))} />
                     )}
@@ -79,7 +83,7 @@ export default class Body extends React.Component {
                 <div id="page" className="site">
                     <Header {...this.props} />
                     <main id="content" className="site-content">
-                        {this.props.children}
+                        {this.props.children}{' '}
                     </main>
                     <Footer {...this.props} />
                 </div>

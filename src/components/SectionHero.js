@@ -1,6 +1,8 @@
-import _ from 'lodash';
+/* This class is a React component that renders a section of the page. It has a title, content, and a
+button. */
 import React from 'react';
-import { markdownify, toStyleObj, withPrefix } from '../utils';
+import _ from 'lodash';
+import {toStyleObj, withPrefix, markdownify} from '../utils';
 import CtaButtons from './CtaButtons';
 export default class SectionHero extends React.Component {
     render() {
@@ -8,7 +10,7 @@ export default class SectionHero extends React.Component {
         return (
             <section id={_.get(section, 'section_id', null)} className="block block-hero has-gradient outer">
               {_.get(section, 'image', null) && (
-              <div className="bg-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(section, 'image', null)) + '\')')}/>
+              <div className="bg-img" style={toStyleObj(`background-image: url('${withPrefix(_.get(section, 'image', null))}')`)}/>
               )}
               <div className="inner-sm">
                 {_.get(section, 'title', null) && (
