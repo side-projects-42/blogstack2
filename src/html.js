@@ -1,28 +1,39 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from 'react';
+import PropTypes from 'prop-types';
 
 export default function HTML(props) {
-    return (
-        <html {...props.htmlAttributes}>
-            <head> {
+    return ( <
+            html {
+                ...props.htmlAttributes
+            } >
+            <
+            head > {
                 props.headComponents
-            } </head>
-            <body {...props.bodyAttributes}>
-                {
+            } < /head> <
+            body {
+                ...props.bodyAttributes
+            } > {
                 props.preBodyComponents
+            } <
+            noscript key = "noscript"
+            id = "gatsby-noscript" >
+            This app works best with JavaScript enabled. <
+            /noscript> <
+            div key = {
+                `body`
             }
-                <noscript key="noscript" id="gatsby-noscript">
-                    This app works best with JavaScript enabled.
-                </noscript>
-                <div key={`body`}
-                    id="___gatsby"
-                    dangerouslysetinnerhtml={
-                        {__html: props.body}
-                    }/> {
-                props.postBodyComponents
-            } </body>
-        </html>
-    )
+            id = "___gatsby"
+            dangerouslySetInnerHTML = {
+                {
+                    __html: props.body
+                }
+            }
+            /> {
+            props.postBodyComponents
+        } <
+        /body> < /
+        html >
+);
 }
 
 HTML.propTypes = {
@@ -32,5 +43,4 @@ HTML.propTypes = {
     preBodyComponents: PropTypes.array,
     body: PropTypes.string,
     postBodyComponents: PropTypes.array
-}
-
+};
