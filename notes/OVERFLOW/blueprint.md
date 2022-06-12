@@ -1,6 +1,6 @@
 <div align="center">
 
-# [⇨WEBSITE🗺️⇦](https://bgoonz-blog.netlify.app/)
+# [⇨WEBSITE🗺️⇦](https://stackbit-clone.netlify.app/)
 
 ### [Github Org Link](https://github.com/BGOOONZ-BLOG/)
 
@@ -1818,395 +1818,395 @@ find . -name *right.html  -type f -exec sed -i 's/target="_parent"//g' {} +
 
 # SITEMAP
 
-# [**🌍⇒https://bgoonz-blog.netlify.app/🗺️**](https://bgoonz-blog.netlify.app/)
+# [**🌍⇒https://stackbit-clone.netlify.app/🗺️**](https://stackbit-clone.netlify.app/)
 
-## [**🌍⇒blog🗺️**](https://bgoonz-blog.netlify.app/blog)
+## [**🌍⇒blog🗺️**](https://stackbit-clone.netlify.app/blog)
 
-## [**🌍⇒docs🗺️**](https://bgoonz-blog.netlify.app/docs)
+## [**🌍⇒docs🗺️**](https://stackbit-clone.netlify.app/docs)
 
-## [**🌍⇒readme🗺️**](https://bgoonz-blog.netlify.app/readme)
+## [**🌍⇒readme🗺️**](https://stackbit-clone.netlify.app/readme)
 
-## [**🌍⇒review🗺️**](https://bgoonz-blog.netlify.app/review)
+## [**🌍⇒review🗺️**](https://stackbit-clone.netlify.app/review)
 
-## [**🌍⇒showcase🗺️**](https://bgoonz-blog.netlify.app/showcase)
+## [**🌍⇒showcase🗺️**](https://stackbit-clone.netlify.app/showcase)
 
-## [**🌍⇒blog/awesome-graphql🗺️**](https://bgoonz-blog.netlify.app/blog/awesome-graphql)
+## [**🌍⇒blog/awesome-graphql🗺️**](https://stackbit-clone.netlify.app/blog/awesome-graphql)
 
-## [**🌍⇒blog/big-o-complexity🗺️**](https://bgoonz-blog.netlify.app/blog/big-o-complexity)
+## [**🌍⇒blog/big-o-complexity🗺️**](https://stackbit-clone.netlify.app/blog/big-o-complexity)
 
-## [**🌍⇒blog/blog-archive🗺️**](https://bgoonz-blog.netlify.app/blog/blog-archive)
+## [**🌍⇒blog/blog-archive🗺️**](https://stackbit-clone.netlify.app/blog/blog-archive)
 
-## [**🌍⇒blog/blogwcomments🗺️**](https://bgoonz-blog.netlify.app/blog/blogwcomments)
+## [**🌍⇒blog/blogwcomments🗺️**](https://stackbit-clone.netlify.app/blog/blogwcomments)
 
-## [**🌍⇒blog/data-structures🗺️**](https://bgoonz-blog.netlify.app/blog/data-structures)
+## [**🌍⇒blog/data-structures🗺️**](https://stackbit-clone.netlify.app/blog/data-structures)
 
-## [**🌍⇒blog/flow-control-in-python🗺️**](https://bgoonz-blog.netlify.app/blog/flow-control-in-python)
+## [**🌍⇒blog/flow-control-in-python🗺️**](https://stackbit-clone.netlify.app/blog/flow-control-in-python)
 
-## [**🌍⇒blog/functions-in-python🗺️**](https://bgoonz-blog.netlify.app/blog/functions-in-python)
+## [**🌍⇒blog/functions-in-python🗺️**](https://stackbit-clone.netlify.app/blog/functions-in-python)
 
-## [**🌍⇒blog/git-gateway🗺️**](https://bgoonz-blog.netlify.app/blog/git-gateway)
+## [**🌍⇒blog/git-gateway🗺️**](https://stackbit-clone.netlify.app/blog/git-gateway)
 
-## [**🌍⇒blog/interview-questions-js🗺️**](https://bgoonz-blog.netlify.app/blog/interview-questions-js)
+## [**🌍⇒blog/interview-questions-js🗺️**](https://stackbit-clone.netlify.app/blog/interview-questions-js)
 
-## [**🌍⇒blog/media-queries-explained🗺️**](https://bgoonz-blog.netlify.app/blog/media-queries-explained)
+## [**🌍⇒blog/media-queries-explained🗺️**](https://stackbit-clone.netlify.app/blog/media-queries-explained)
 
-## [**🌍⇒blog/my-medium🗺️**](https://bgoonz-blog.netlify.app/blog/my-medium)
+## [**🌍⇒blog/my-medium🗺️**](https://stackbit-clone.netlify.app/blog/my-medium)
 
-## [**🌍⇒blog/netlify-cms🗺️**](https://bgoonz-blog.netlify.app/blog/netlify-cms)
+## [**🌍⇒blog/netlify-cms🗺️**](https://stackbit-clone.netlify.app/blog/netlify-cms)
 
-## [**🌍⇒blog/platform-docs🗺️**](https://bgoonz-blog.netlify.app/blog/platform-docs)
+## [**🌍⇒blog/platform-docs🗺️**](https://stackbit-clone.netlify.app/blog/platform-docs)
 
-## [**🌍⇒blog/python-for-js-dev🗺️**](https://bgoonz-blog.netlify.app/blog/python-for-js-dev)
+## [**🌍⇒blog/python-for-js-dev🗺️**](https://stackbit-clone.netlify.app/blog/python-for-js-dev)
 
-## [**🌍⇒blog/python-resources🗺️**](https://bgoonz-blog.netlify.app/blog/python-resources)
+## [**🌍⇒blog/python-resources🗺️**](https://stackbit-clone.netlify.app/blog/python-resources)
 
-## [**🌍⇒blog/web-dev-trends🗺️**](https://bgoonz-blog.netlify.app/blog/web-dev-trends)
+## [**🌍⇒blog/web-dev-trends🗺️**](https://stackbit-clone.netlify.app/blog/web-dev-trends)
 
-## [**🌍⇒blog/web-scraping🗺️**](https://bgoonz-blog.netlify.app/blog/web-scraping)
+## [**🌍⇒blog/web-scraping🗺️**](https://stackbit-clone.netlify.app/blog/web-scraping)
 
-## [**🌍⇒docs/about🗺️**](https://bgoonz-blog.netlify.app/docs/about)
+## [**🌍⇒docs/about🗺️**](https://stackbit-clone.netlify.app/docs/about)
 
-## [**🌍⇒docs/articles🗺️**](https://bgoonz-blog.netlify.app/docs/articles)
+## [**🌍⇒docs/articles🗺️**](https://stackbit-clone.netlify.app/docs/articles)
 
-## [**🌍⇒docs/audio🗺️**](https://bgoonz-blog.netlify.app/docs/audio)
+## [**🌍⇒docs/audio🗺️**](https://stackbit-clone.netlify.app/docs/audio)
 
-## [**🌍⇒docs/career🗺️**](https://bgoonz-blog.netlify.app/docs/career)
+## [**🌍⇒docs/career🗺️**](https://stackbit-clone.netlify.app/docs/career)
 
-## [**🌍⇒docs/community🗺️**](https://bgoonz-blog.netlify.app/docs/community)
+## [**🌍⇒docs/community🗺️**](https://stackbit-clone.netlify.app/docs/community)
 
-## [**🌍⇒docs/content🗺️**](https://bgoonz-blog.netlify.app/docs/content)
+## [**🌍⇒docs/content🗺️**](https://stackbit-clone.netlify.app/docs/content)
 
-## [**🌍⇒docs/docs🗺️**](https://bgoonz-blog.netlify.app/docs/docs)
+## [**🌍⇒docs/docs🗺️**](https://stackbit-clone.netlify.app/docs/docs)
 
-## [**🌍⇒docs/faq🗺️**](https://bgoonz-blog.netlify.app/docs/faq)
+## [**🌍⇒docs/faq🗺️**](https://stackbit-clone.netlify.app/docs/faq)
 
-## [**🌍⇒docs/gallery🗺️**](https://bgoonz-blog.netlify.app/docs/gallery)
+## [**🌍⇒docs/gallery🗺️**](https://stackbit-clone.netlify.app/docs/gallery)
 
-## [**🌍⇒docs/interact🗺️**](https://bgoonz-blog.netlify.app/docs/interact)
+## [**🌍⇒docs/interact🗺️**](https://stackbit-clone.netlify.app/docs/interact)
 
-## [**🌍⇒docs/javascript🗺️**](https://bgoonz-blog.netlify.app/docs/javascript)
+## [**🌍⇒docs/javascript🗺️**](https://stackbit-clone.netlify.app/docs/javascript)
 
-## [**🌍⇒docs/leetcode🗺️**](https://bgoonz-blog.netlify.app/docs/leetcode)
+## [**🌍⇒docs/leetcode🗺️**](https://stackbit-clone.netlify.app/docs/leetcode)
 
-## [**🌍⇒docs/other-content🗺️**](https://bgoonz-blog.netlify.app/docs/other-content)
+## [**🌍⇒docs/other-content🗺️**](https://stackbit-clone.netlify.app/docs/other-content)
 
-## [**🌍⇒docs/privacy-policy🗺️**](https://bgoonz-blog.netlify.app/docs/privacy-policy)
+## [**🌍⇒docs/privacy-policy🗺️**](https://stackbit-clone.netlify.app/docs/privacy-policy)
 
-## [**🌍⇒docs/projects🗺️**](https://bgoonz-blog.netlify.app/docs/projects)
+## [**🌍⇒docs/projects🗺️**](https://stackbit-clone.netlify.app/docs/projects)
 
-## [**🌍⇒docs/python🗺️**](https://bgoonz-blog.netlify.app/docs/python)
+## [**🌍⇒docs/python🗺️**](https://stackbit-clone.netlify.app/docs/python)
 
-## [**🌍⇒docs/quick-reference🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference)
+## [**🌍⇒docs/quick-reference🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference)
 
-## [**🌍⇒docs/react🗺️**](https://bgoonz-blog.netlify.app/docs/react)
+## [**🌍⇒docs/react🗺️**](https://stackbit-clone.netlify.app/docs/react)
 
-## [**🌍⇒docs/reference🗺️**](https://bgoonz-blog.netlify.app/docs/reference)
+## [**🌍⇒docs/reference🗺️**](https://stackbit-clone.netlify.app/docs/reference)
 
-## [**🌍⇒docs/search🗺️**](https://bgoonz-blog.netlify.app/docs/search)
+## [**🌍⇒docs/search🗺️**](https://stackbit-clone.netlify.app/docs/search)
 
-## [**🌍⇒docs/sitemap🗺️**](https://bgoonz-blog.netlify.app/docs/sitemap)
+## [**🌍⇒docs/sitemap🗺️**](https://stackbit-clone.netlify.app/docs/sitemap)
 
-## [**🌍⇒docs/tools🗺️**](https://bgoonz-blog.netlify.app/docs/tools)
+## [**🌍⇒docs/tools🗺️**](https://stackbit-clone.netlify.app/docs/tools)
 
-## [**🌍⇒docs/tutorials🗺️**](https://bgoonz-blog.netlify.app/docs/tutorials)
+## [**🌍⇒docs/tutorials🗺️**](https://stackbit-clone.netlify.app/docs/tutorials)
 
-## [**🌍⇒docs/about/eng-portfolio🗺️**](https://bgoonz-blog.netlify.app/docs/about/eng-portfolio)
+## [**🌍⇒docs/about/eng-portfolio🗺️**](https://stackbit-clone.netlify.app/docs/about/eng-portfolio)
 
-## [**🌍⇒docs/about/ideas-for-this-website🗺️**](https://bgoonz-blog.netlify.app/docs/about/ideas-for-this-website)
+## [**🌍⇒docs/about/ideas-for-this-website🗺️**](https://stackbit-clone.netlify.app/docs/about/ideas-for-this-website)
 
-## [**🌍⇒docs/about/intrests🗺️**](https://bgoonz-blog.netlify.app/docs/about/intrests)
+## [**🌍⇒docs/about/intrests🗺️**](https://stackbit-clone.netlify.app/docs/about/intrests)
 
-## [**🌍⇒docs/about/interview🗺️**](https://bgoonz-blog.netlify.app/docs/about/interview)
+## [**🌍⇒docs/about/interview🗺️**](https://stackbit-clone.netlify.app/docs/about/interview)
 
-## [**🌍⇒docs/about/resume🗺️**](https://bgoonz-blog.netlify.app/docs/about/resume)
+## [**🌍⇒docs/about/resume🗺️**](https://stackbit-clone.netlify.app/docs/about/resume)
 
-## [**🌍⇒docs/articles/basic-web-dev🗺️**](https://bgoonz-blog.netlify.app/docs/articles/basic-web-dev)
+## [**🌍⇒docs/articles/basic-web-dev🗺️**](https://stackbit-clone.netlify.app/docs/articles/basic-web-dev)
 
-## [**🌍⇒docs/articles/buffers🗺️**](https://bgoonz-blog.netlify.app/docs/articles/buffers)
+## [**🌍⇒docs/articles/buffers🗺️**](https://stackbit-clone.netlify.app/docs/articles/buffers)
 
-## [**🌍⇒docs/articles/dev-dep🗺️**](https://bgoonz-blog.netlify.app/docs/articles/dev-dep)
+## [**🌍⇒docs/articles/dev-dep🗺️**](https://stackbit-clone.netlify.app/docs/articles/dev-dep)
 
-## [**🌍⇒docs/articles/event-loop🗺️**](https://bgoonz-blog.netlify.app/docs/articles/event-loop)
+## [**🌍⇒docs/articles/event-loop🗺️**](https://stackbit-clone.netlify.app/docs/articles/event-loop)
 
-## [**🌍⇒docs/articles/fs-module🗺️**](https://bgoonz-blog.netlify.app/docs/articles/fs-module)
+## [**🌍⇒docs/articles/fs-module🗺️**](https://stackbit-clone.netlify.app/docs/articles/fs-module)
 
-## [**🌍⇒docs/articles/how-the-web-works🗺️**](https://bgoonz-blog.netlify.app/docs/articles/how-the-web-works)
+## [**🌍⇒docs/articles/how-the-web-works🗺️**](https://stackbit-clone.netlify.app/docs/articles/how-the-web-works)
 
-## [**🌍⇒docs/articles/http🗺️**](https://bgoonz-blog.netlify.app/docs/articles/http)
+## [**🌍⇒docs/articles/http🗺️**](https://stackbit-clone.netlify.app/docs/articles/http)
 
-## [**🌍⇒docs/articles/install🗺️**](https://bgoonz-blog.netlify.app/docs/articles/install)
+## [**🌍⇒docs/articles/install🗺️**](https://stackbit-clone.netlify.app/docs/articles/install)
 
-## [**🌍⇒docs/articles/intro🗺️**](https://bgoonz-blog.netlify.app/docs/articles/intro)
+## [**🌍⇒docs/articles/intro🗺️**](https://stackbit-clone.netlify.app/docs/articles/intro)
 
-## [**🌍⇒docs/articles/media-queries-no-more🗺️**](https://bgoonz-blog.netlify.app/docs/articles/media-queries-no-more)
+## [**🌍⇒docs/articles/media-queries-no-more🗺️**](https://stackbit-clone.netlify.app/docs/articles/media-queries-no-more)
 
-## [**🌍⇒docs/articles/module-exports🗺️**](https://bgoonz-blog.netlify.app/docs/articles/module-exports)
+## [**🌍⇒docs/articles/module-exports🗺️**](https://stackbit-clone.netlify.app/docs/articles/module-exports)
 
-## [**🌍⇒docs/articles/nextjs🗺️**](https://bgoonz-blog.netlify.app/docs/articles/nextjs)
+## [**🌍⇒docs/articles/nextjs🗺️**](https://stackbit-clone.netlify.app/docs/articles/nextjs)
 
-## [**🌍⇒docs/articles/node-api-express🗺️**](https://bgoonz-blog.netlify.app/docs/articles/node-api-express)
+## [**🌍⇒docs/articles/node-api-express🗺️**](https://stackbit-clone.netlify.app/docs/articles/node-api-express)
 
-## [**🌍⇒docs/articles/node-cli-args🗺️**](https://bgoonz-blog.netlify.app/docs/articles/node-cli-args)
+## [**🌍⇒docs/articles/node-cli-args🗺️**](https://stackbit-clone.netlify.app/docs/articles/node-cli-args)
 
-## [**🌍⇒docs/articles/node-common-modules🗺️**](https://bgoonz-blog.netlify.app/docs/articles/node-common-modules)
+## [**🌍⇒docs/articles/node-common-modules🗺️**](https://stackbit-clone.netlify.app/docs/articles/node-common-modules)
 
-## [**🌍⇒docs/articles/node-env-variables🗺️**](https://bgoonz-blog.netlify.app/docs/articles/node-env-variables)
+## [**🌍⇒docs/articles/node-env-variables🗺️**](https://stackbit-clone.netlify.app/docs/articles/node-env-variables)
 
-## [**🌍⇒docs/articles/node-js-language🗺️**](https://bgoonz-blog.netlify.app/docs/articles/node-js-language)
+## [**🌍⇒docs/articles/node-js-language🗺️**](https://stackbit-clone.netlify.app/docs/articles/node-js-language)
 
-## [**🌍⇒docs/articles/node-package-manager🗺️**](https://bgoonz-blog.netlify.app/docs/articles/node-package-manager)
+## [**🌍⇒docs/articles/node-package-manager🗺️**](https://stackbit-clone.netlify.app/docs/articles/node-package-manager)
 
-## [**🌍⇒docs/articles/node-repl🗺️**](https://bgoonz-blog.netlify.app/docs/articles/node-repl)
+## [**🌍⇒docs/articles/node-repl🗺️**](https://stackbit-clone.netlify.app/docs/articles/node-repl)
 
-## [**🌍⇒docs/articles/node-run-cli🗺️**](https://bgoonz-blog.netlify.app/docs/articles/node-run-cli)
+## [**🌍⇒docs/articles/node-run-cli🗺️**](https://stackbit-clone.netlify.app/docs/articles/node-run-cli)
 
-## [**🌍⇒docs/articles/nodejs🗺️**](https://bgoonz-blog.netlify.app/docs/articles/nodejs)
+## [**🌍⇒docs/articles/nodejs🗺️**](https://stackbit-clone.netlify.app/docs/articles/nodejs)
 
-## [**🌍⇒docs/articles/nodevsbrowser🗺️**](https://bgoonz-blog.netlify.app/docs/articles/nodevsbrowser)
+## [**🌍⇒docs/articles/nodevsbrowser🗺️**](https://stackbit-clone.netlify.app/docs/articles/nodevsbrowser)
 
-## [**🌍⇒docs/articles/npm🗺️**](https://bgoonz-blog.netlify.app/docs/articles/npm)
+## [**🌍⇒docs/articles/npm🗺️**](https://stackbit-clone.netlify.app/docs/articles/npm)
 
-## [**🌍⇒docs/articles/npx🗺️**](https://bgoonz-blog.netlify.app/docs/articles/npx)
+## [**🌍⇒docs/articles/npx🗺️**](https://stackbit-clone.netlify.app/docs/articles/npx)
 
-## [**🌍⇒docs/articles/os-module🗺️**](https://bgoonz-blog.netlify.app/docs/articles/os-module)
+## [**🌍⇒docs/articles/os-module🗺️**](https://stackbit-clone.netlify.app/docs/articles/os-module)
 
-## [**🌍⇒docs/articles/package-lock🗺️**](https://bgoonz-blog.netlify.app/docs/articles/package-lock)
+## [**🌍⇒docs/articles/package-lock🗺️**](https://stackbit-clone.netlify.app/docs/articles/package-lock)
 
-## [**🌍⇒docs/articles/reading-files🗺️**](https://bgoonz-blog.netlify.app/docs/articles/reading-files)
+## [**🌍⇒docs/articles/reading-files🗺️**](https://stackbit-clone.netlify.app/docs/articles/reading-files)
 
-## [**🌍⇒docs/articles/semantic🗺️**](https://bgoonz-blog.netlify.app/docs/articles/semantic)
+## [**🌍⇒docs/articles/semantic🗺️**](https://stackbit-clone.netlify.app/docs/articles/semantic)
 
-## [**🌍⇒docs/articles/semantic-html🗺️**](https://bgoonz-blog.netlify.app/docs/articles/semantic-html)
+## [**🌍⇒docs/articles/semantic-html🗺️**](https://stackbit-clone.netlify.app/docs/articles/semantic-html)
 
-## [**🌍⇒docs/articles/the-uniform-resource-locator-(url)🗺️**](<https://bgoonz-blog.netlify.app/docs/articles/the-uniform-resource-locator-(url)>)
+## [**🌍⇒docs/articles/the-uniform-resource-locator-(url)🗺️**](<https://stackbit-clone.netlify.app/docs/articles/the-uniform-resource-locator-(url)>)
 
-## [**🌍⇒docs/articles/understanding-firebase🗺️**](https://bgoonz-blog.netlify.app/docs/articles/understanding-firebase)
+## [**🌍⇒docs/articles/understanding-firebase🗺️**](https://stackbit-clone.netlify.app/docs/articles/understanding-firebase)
 
-## [**🌍⇒docs/articles/v8🗺️**](https://bgoonz-blog.netlify.app/docs/articles/v8)
+## [**🌍⇒docs/articles/v8🗺️**](https://stackbit-clone.netlify.app/docs/articles/v8)
 
-## [**🌍⇒docs/articles/web-standards-checklist🗺️**](https://bgoonz-blog.netlify.app/docs/articles/web-standards-checklist)
+## [**🌍⇒docs/articles/web-standards-checklist🗺️**](https://stackbit-clone.netlify.app/docs/articles/web-standards-checklist)
 
-## [**🌍⇒docs/articles/webdev-tools🗺️**](https://bgoonz-blog.netlify.app/docs/articles/webdev-tools)
+## [**🌍⇒docs/articles/webdev-tools🗺️**](https://stackbit-clone.netlify.app/docs/articles/webdev-tools)
 
-## [**🌍⇒docs/articles/write-2-json-with-python🗺️**](https://bgoonz-blog.netlify.app/docs/articles/write-2-json-with-python)
+## [**🌍⇒docs/articles/write-2-json-with-python🗺️**](https://stackbit-clone.netlify.app/docs/articles/write-2-json-with-python)
 
-## [**🌍⇒docs/articles/writing-files🗺️**](https://bgoonz-blog.netlify.app/docs/articles/writing-files)
+## [**🌍⇒docs/articles/writing-files🗺️**](https://stackbit-clone.netlify.app/docs/articles/writing-files)
 
-## [**🌍⇒docs/audio/audio🗺️**](https://bgoonz-blog.netlify.app/docs/audio/audio)
+## [**🌍⇒docs/audio/audio🗺️**](https://stackbit-clone.netlify.app/docs/audio/audio)
 
-## [**🌍⇒docs/audio/audio-feature-extraction🗺️**](https://bgoonz-blog.netlify.app/docs/audio/audio-feature-extraction)
+## [**🌍⇒docs/audio/audio-feature-extraction🗺️**](https://stackbit-clone.netlify.app/docs/audio/audio-feature-extraction)
 
-## [**🌍⇒docs/audio/dfft🗺️**](https://bgoonz-blog.netlify.app/docs/audio/dfft)
+## [**🌍⇒docs/audio/dfft🗺️**](https://stackbit-clone.netlify.app/docs/audio/dfft)
 
-## [**🌍⇒docs/audio/discrete-fft🗺️**](https://bgoonz-blog.netlify.app/docs/audio/discrete-fft)
+## [**🌍⇒docs/audio/discrete-fft🗺️**](https://stackbit-clone.netlify.app/docs/audio/discrete-fft)
 
-## [**🌍⇒docs/audio/dtw-python-explained🗺️**](https://bgoonz-blog.netlify.app/docs/audio/dtw-python-explained)
+## [**🌍⇒docs/audio/dtw-python-explained🗺️**](https://stackbit-clone.netlify.app/docs/audio/dtw-python-explained)
 
-## [**🌍⇒docs/audio/dynamic-time-warping🗺️**](https://bgoonz-blog.netlify.app/docs/audio/dynamic-time-warping)
+## [**🌍⇒docs/audio/dynamic-time-warping🗺️**](https://stackbit-clone.netlify.app/docs/audio/dynamic-time-warping)
 
-## [**🌍⇒docs/audio/web-audio-api🗺️**](https://bgoonz-blog.netlify.app/docs/audio/web-audio-api)
+## [**🌍⇒docs/audio/web-audio-api🗺️**](https://stackbit-clone.netlify.app/docs/audio/web-audio-api)
 
-## [**🌍⇒docs/career/confidence🗺️**](https://bgoonz-blog.netlify.app/docs/career/confidence)
+## [**🌍⇒docs/career/confidence🗺️**](https://stackbit-clone.netlify.app/docs/career/confidence)
 
-## [**🌍⇒docs/career/dev-interview🗺️**](https://bgoonz-blog.netlify.app/docs/career/dev-interview)
+## [**🌍⇒docs/career/dev-interview🗺️**](https://stackbit-clone.netlify.app/docs/career/dev-interview)
 
-## [**🌍⇒docs/career/interview-dos-n-donts🗺️**](https://bgoonz-blog.netlify.app/docs/career/interview-dos-n-donts)
+## [**🌍⇒docs/career/interview-dos-n-donts🗺️**](https://stackbit-clone.netlify.app/docs/career/interview-dos-n-donts)
 
-## [**🌍⇒docs/career/job-boards🗺️**](https://bgoonz-blog.netlify.app/docs/career/job-boards)
+## [**🌍⇒docs/career/job-boards🗺️**](https://stackbit-clone.netlify.app/docs/career/job-boards)
 
-## [**🌍⇒docs/community/an-open-letter-2-future-developers🗺️**](https://bgoonz-blog.netlify.app/docs/community/an-open-letter-2-future-developers)
+## [**🌍⇒docs/community/an-open-letter-2-future-developers🗺️**](https://stackbit-clone.netlify.app/docs/community/an-open-letter-2-future-developers)
 
-## [**🌍⇒docs/community/video-chat🗺️**](https://bgoonz-blog.netlify.app/docs/community/video-chat)
+## [**🌍⇒docs/community/video-chat🗺️**](https://stackbit-clone.netlify.app/docs/community/video-chat)
 
-## [**🌍⇒docs/content/algo🗺️**](https://bgoonz-blog.netlify.app/docs/content/algo)
+## [**🌍⇒docs/content/algo🗺️**](https://stackbit-clone.netlify.app/docs/content/algo)
 
-## [**🌍⇒docs/content/archive🗺️**](https://bgoonz-blog.netlify.app/docs/content/archive)
+## [**🌍⇒docs/content/archive🗺️**](https://stackbit-clone.netlify.app/docs/content/archive)
 
-## [**🌍⇒docs/content/data-structures-algo🗺️**](https://bgoonz-blog.netlify.app/docs/content/data-structures-algo)
+## [**🌍⇒docs/content/data-structures-algo🗺️**](https://stackbit-clone.netlify.app/docs/content/data-structures-algo)
 
-## [**🌍⇒docs/content/gatsby-Queries-Mutations🗺️**](https://bgoonz-blog.netlify.app/docs/content/gatsby-Queries-Mutations)
+## [**🌍⇒docs/content/gatsby-Queries-Mutations🗺️**](https://stackbit-clone.netlify.app/docs/content/gatsby-Queries-Mutations)
 
-## [**🌍⇒docs/content/history-api🗺️**](https://bgoonz-blog.netlify.app/docs/content/history-api)
+## [**🌍⇒docs/content/history-api🗺️**](https://stackbit-clone.netlify.app/docs/content/history-api)
 
-## [**🌍⇒docs/content/projects🗺️**](https://bgoonz-blog.netlify.app/docs/content/projects)
+## [**🌍⇒docs/content/projects🗺️**](https://stackbit-clone.netlify.app/docs/content/projects)
 
-## [**🌍⇒docs/content/recent-projects🗺️**](https://bgoonz-blog.netlify.app/docs/content/recent-projects)
+## [**🌍⇒docs/content/recent-projects🗺️**](https://stackbit-clone.netlify.app/docs/content/recent-projects)
 
-## [**🌍⇒docs/content/trouble-shooting🗺️**](https://bgoonz-blog.netlify.app/docs/content/trouble-shooting)
+## [**🌍⇒docs/content/trouble-shooting🗺️**](https://stackbit-clone.netlify.app/docs/content/trouble-shooting)
 
-## [**🌍⇒docs/docs/appendix🗺️**](https://bgoonz-blog.netlify.app/docs/docs/appendix)
+## [**🌍⇒docs/docs/appendix🗺️**](https://stackbit-clone.netlify.app/docs/docs/appendix)
 
-## [**🌍⇒docs/docs/bash🗺️**](https://bgoonz-blog.netlify.app/docs/docs/bash)
+## [**🌍⇒docs/docs/bash🗺️**](https://stackbit-clone.netlify.app/docs/docs/bash)
 
-## [**🌍⇒docs/docs/content🗺️**](https://bgoonz-blog.netlify.app/docs/docs/content)
+## [**🌍⇒docs/docs/content🗺️**](https://stackbit-clone.netlify.app/docs/docs/content)
 
-## [**🌍⇒docs/docs/css🗺️**](https://bgoonz-blog.netlify.app/docs/docs/css)
+## [**🌍⇒docs/docs/css🗺️**](https://stackbit-clone.netlify.app/docs/docs/css)
 
-## [**🌍⇒docs/docs/data-structures-docs🗺️**](https://bgoonz-blog.netlify.app/docs/docs/data-structures-docs)
+## [**🌍⇒docs/docs/data-structures-docs🗺️**](https://stackbit-clone.netlify.app/docs/docs/data-structures-docs)
 
-## [**🌍⇒docs/docs/git-reference🗺️**](https://bgoonz-blog.netlify.app/docs/docs/git-reference)
+## [**🌍⇒docs/docs/git-reference🗺️**](https://stackbit-clone.netlify.app/docs/docs/git-reference)
 
-## [**🌍⇒docs/docs/git-repos🗺️**](https://bgoonz-blog.netlify.app/docs/docs/git-repos)
+## [**🌍⇒docs/docs/git-repos🗺️**](https://stackbit-clone.netlify.app/docs/docs/git-repos)
 
-## [**🌍⇒docs/docs/html-spec🗺️**](https://bgoonz-blog.netlify.app/docs/docs/html-spec)
+## [**🌍⇒docs/docs/html-spec🗺️**](https://stackbit-clone.netlify.app/docs/docs/html-spec)
 
-## [**🌍⇒docs/docs/markdown🗺️**](https://bgoonz-blog.netlify.app/docs/docs/markdown)
+## [**🌍⇒docs/docs/markdown🗺️**](https://stackbit-clone.netlify.app/docs/docs/markdown)
 
-## [**🌍⇒docs/docs/no-whiteboarding🗺️**](https://bgoonz-blog.netlify.app/docs/docs/no-whiteboarding)
+## [**🌍⇒docs/docs/no-whiteboarding🗺️**](https://stackbit-clone.netlify.app/docs/docs/no-whiteboarding)
 
-## [**🌍⇒docs/docs/node-docs-complete🗺️**](https://bgoonz-blog.netlify.app/docs/docs/node-docs-complete)
+## [**🌍⇒docs/docs/node-docs-complete🗺️**](https://stackbit-clone.netlify.app/docs/docs/node-docs-complete)
 
-## [**🌍⇒docs/docs/node-docs-full🗺️**](https://bgoonz-blog.netlify.app/docs/docs/node-docs-full)
+## [**🌍⇒docs/docs/node-docs-full🗺️**](https://stackbit-clone.netlify.app/docs/docs/node-docs-full)
 
-## [**🌍⇒docs/docs/regex-in-js🗺️**](https://bgoonz-blog.netlify.app/docs/docs/regex-in-js)
+## [**🌍⇒docs/docs/regex-in-js🗺️**](https://stackbit-clone.netlify.app/docs/docs/regex-in-js)
 
-## [**🌍⇒docs/docs/sitemap🗺️**](https://bgoonz-blog.netlify.app/docs/docs/sitemap)
+## [**🌍⇒docs/docs/sitemap🗺️**](https://stackbit-clone.netlify.app/docs/docs/sitemap)
 
-## [**🌍⇒docs/faq/contact🗺️**](https://bgoonz-blog.netlify.app/docs/faq/contact)
+## [**🌍⇒docs/faq/contact🗺️**](https://stackbit-clone.netlify.app/docs/faq/contact)
 
-## [**🌍⇒docs/faq/plug-ins🗺️**](https://bgoonz-blog.netlify.app/docs/faq/plug-ins)
+## [**🌍⇒docs/faq/plug-ins🗺️**](https://stackbit-clone.netlify.app/docs/faq/plug-ins)
 
-## [**🌍⇒docs/interact/callstack-visual🗺️**](https://bgoonz-blog.netlify.app/docs/interact/callstack-visual)
+## [**🌍⇒docs/interact/callstack-visual🗺️**](https://stackbit-clone.netlify.app/docs/interact/callstack-visual)
 
-## [**🌍⇒docs/interact/clock🗺️**](https://bgoonz-blog.netlify.app/docs/interact/clock)
+## [**🌍⇒docs/interact/clock🗺️**](https://stackbit-clone.netlify.app/docs/interact/clock)
 
-## [**🌍⇒docs/interact/jupyter-notebooks🗺️**](https://bgoonz-blog.netlify.app/docs/interact/jupyter-notebooks)
+## [**🌍⇒docs/interact/jupyter-notebooks🗺️**](https://stackbit-clone.netlify.app/docs/interact/jupyter-notebooks)
 
-## [**🌍⇒docs/interact/other-sites🗺️**](https://bgoonz-blog.netlify.app/docs/interact/other-sites)
+## [**🌍⇒docs/interact/other-sites🗺️**](https://stackbit-clone.netlify.app/docs/interact/other-sites)
 
-## [**🌍⇒docs/interact/video-chat🗺️**](https://bgoonz-blog.netlify.app/docs/interact/video-chat)
+## [**🌍⇒docs/interact/video-chat🗺️**](https://stackbit-clone.netlify.app/docs/interact/video-chat)
 
-## [**🌍⇒docs/javascript/arrow-functions🗺️**](https://bgoonz-blog.netlify.app/docs/javascript/arrow-functions)
+## [**🌍⇒docs/javascript/arrow-functions🗺️**](https://stackbit-clone.netlify.app/docs/javascript/arrow-functions)
 
-## [**🌍⇒docs/javascript/await-keyword🗺️**](https://bgoonz-blog.netlify.app/docs/javascript/await-keyword)
+## [**🌍⇒docs/javascript/await-keyword🗺️**](https://stackbit-clone.netlify.app/docs/javascript/await-keyword)
 
-## [**🌍⇒docs/javascript/bigo🗺️**](https://bgoonz-blog.netlify.app/docs/javascript/bigo)
+## [**🌍⇒docs/javascript/bigo🗺️**](https://stackbit-clone.netlify.app/docs/javascript/bigo)
 
-## [**🌍⇒docs/javascript/clean-code🗺️**](https://bgoonz-blog.netlify.app/docs/javascript/clean-code)
+## [**🌍⇒docs/javascript/clean-code🗺️**](https://stackbit-clone.netlify.app/docs/javascript/clean-code)
 
-## [**🌍⇒docs/javascript/constructor-functions🗺️**](https://bgoonz-blog.netlify.app/docs/javascript/constructor-functions)
+## [**🌍⇒docs/javascript/constructor-functions🗺️**](https://stackbit-clone.netlify.app/docs/javascript/constructor-functions)
 
-## [**🌍⇒docs/javascript/promises🗺️**](https://bgoonz-blog.netlify.app/docs/javascript/promises)
+## [**🌍⇒docs/javascript/promises🗺️**](https://stackbit-clone.netlify.app/docs/javascript/promises)
 
-## [**🌍⇒docs/javascript/review🗺️**](https://bgoonz-blog.netlify.app/docs/javascript/review)
+## [**🌍⇒docs/javascript/review🗺️**](https://stackbit-clone.netlify.app/docs/javascript/review)
 
-## [**🌍⇒docs/javascript/this-is-about-this🗺️**](https://bgoonz-blog.netlify.app/docs/javascript/this-is-about-this)
+## [**🌍⇒docs/javascript/this-is-about-this🗺️**](https://stackbit-clone.netlify.app/docs/javascript/this-is-about-this)
 
-## [**🌍⇒docs/projects/medium-links🗺️**](https://bgoonz-blog.netlify.app/docs/projects/medium-links)
+## [**🌍⇒docs/projects/medium-links🗺️**](https://stackbit-clone.netlify.app/docs/projects/medium-links)
 
-## [**🌍⇒docs/projects/my-websites🗺️**](https://bgoonz-blog.netlify.app/docs/projects/my-websites)
+## [**🌍⇒docs/projects/my-websites🗺️**](https://stackbit-clone.netlify.app/docs/projects/my-websites)
 
-## [**🌍⇒docs/python/at-length🗺️**](https://bgoonz-blog.netlify.app/docs/python/at-length)
+## [**🌍⇒docs/python/at-length🗺️**](https://stackbit-clone.netlify.app/docs/python/at-length)
 
-## [**🌍⇒docs/python/basics🗺️**](https://bgoonz-blog.netlify.app/docs/python/basics)
+## [**🌍⇒docs/python/basics🗺️**](https://stackbit-clone.netlify.app/docs/python/basics)
 
-## [**🌍⇒docs/python/cheat-sheet🗺️**](https://bgoonz-blog.netlify.app/docs/python/cheat-sheet)
+## [**🌍⇒docs/python/cheat-sheet🗺️**](https://stackbit-clone.netlify.app/docs/python/cheat-sheet)
 
-## [**🌍⇒docs/python/comprehensive-guide🗺️**](https://bgoonz-blog.netlify.app/docs/python/comprehensive-guide)
+## [**🌍⇒docs/python/comprehensive-guide🗺️**](https://stackbit-clone.netlify.app/docs/python/comprehensive-guide)
 
-## [**🌍⇒docs/python/examples🗺️**](https://bgoonz-blog.netlify.app/docs/python/examples)
+## [**🌍⇒docs/python/examples🗺️**](https://stackbit-clone.netlify.app/docs/python/examples)
 
-## [**🌍⇒docs/python/flow-control🗺️**](https://bgoonz-blog.netlify.app/docs/python/flow-control)
+## [**🌍⇒docs/python/flow-control🗺️**](https://stackbit-clone.netlify.app/docs/python/flow-control)
 
-## [**🌍⇒docs/python/functions🗺️**](https://bgoonz-blog.netlify.app/docs/python/functions)
+## [**🌍⇒docs/python/functions🗺️**](https://stackbit-clone.netlify.app/docs/python/functions)
 
-## [**🌍⇒docs/python/google-sheets-api🗺️**](https://bgoonz-blog.netlify.app/docs/python/google-sheets-api)
+## [**🌍⇒docs/python/google-sheets-api🗺️**](https://stackbit-clone.netlify.app/docs/python/google-sheets-api)
 
-## [**🌍⇒docs/python/intro-for-js-devs🗺️**](https://bgoonz-blog.netlify.app/docs/python/intro-for-js-devs)
+## [**🌍⇒docs/python/intro-for-js-devs🗺️**](https://stackbit-clone.netlify.app/docs/python/intro-for-js-devs)
 
-## [**🌍⇒docs/python/python-ds🗺️**](https://bgoonz-blog.netlify.app/docs/python/python-ds)
+## [**🌍⇒docs/python/python-ds🗺️**](https://stackbit-clone.netlify.app/docs/python/python-ds)
 
-## [**🌍⇒docs/python/snippets🗺️**](https://bgoonz-blog.netlify.app/docs/python/snippets)
+## [**🌍⇒docs/python/snippets🗺️**](https://stackbit-clone.netlify.app/docs/python/snippets)
 
-## [**🌍⇒docs/quick-reference/Emmet🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/Emmet)
+## [**🌍⇒docs/quick-reference/Emmet🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/Emmet)
 
-## [**🌍⇒docs/quick-reference/all-emojis🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/all-emojis)
+## [**🌍⇒docs/quick-reference/all-emojis🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/all-emojis)
 
-## [**🌍⇒docs/quick-reference/create-react-app🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/create-react-app)
+## [**🌍⇒docs/quick-reference/create-react-app🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/create-react-app)
 
-## [**🌍⇒docs/quick-reference/git-bash🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/git-bash)
+## [**🌍⇒docs/quick-reference/git-bash🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/git-bash)
 
-## [**🌍⇒docs/quick-reference/git-tricks🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/git-tricks)
+## [**🌍⇒docs/quick-reference/git-tricks🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/git-tricks)
 
-## [**🌍⇒docs/quick-reference/google-firebase🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/google-firebase)
+## [**🌍⇒docs/quick-reference/google-firebase🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/google-firebase)
 
-## [**🌍⇒docs/quick-reference/heroku-error-codes🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/heroku-error-codes)
+## [**🌍⇒docs/quick-reference/heroku-error-codes🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/heroku-error-codes)
 
-## [**🌍⇒docs/quick-reference/installation🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/installation)
+## [**🌍⇒docs/quick-reference/installation🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/installation)
 
-## [**🌍⇒docs/quick-reference/markdown-dropdowns🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/markdown-dropdowns)
+## [**🌍⇒docs/quick-reference/markdown-dropdowns🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/markdown-dropdowns)
 
-## [**🌍⇒docs/quick-reference/minifiction🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/minifiction)
+## [**🌍⇒docs/quick-reference/minifiction🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/minifiction)
 
-## [**🌍⇒docs/quick-reference/new-repo-instructions🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/new-repo-instructions)
+## [**🌍⇒docs/quick-reference/new-repo-instructions🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/new-repo-instructions)
 
-## [**🌍⇒docs/quick-reference/psql-setup🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/psql-setup)
+## [**🌍⇒docs/quick-reference/psql-setup🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/psql-setup)
 
-## [**🌍⇒docs/quick-reference/pull-request-rubric🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/pull-request-rubric)
+## [**🌍⇒docs/quick-reference/pull-request-rubric🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/pull-request-rubric)
 
-## [**🌍⇒docs/quick-reference/quick-links🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/quick-links)
+## [**🌍⇒docs/quick-reference/quick-links🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/quick-links)
 
-## [**🌍⇒docs/quick-reference/topRepos🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/topRepos)
+## [**🌍⇒docs/quick-reference/topRepos🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/topRepos)
 
-## [**🌍⇒docs/quick-reference/understanding-path🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/understanding-path)
+## [**🌍⇒docs/quick-reference/understanding-path🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/understanding-path)
 
-## [**🌍⇒docs/quick-reference/vscode-themes🗺️**](https://bgoonz-blog.netlify.app/docs/quick-reference/vscode-themes)
+## [**🌍⇒docs/quick-reference/vscode-themes🗺️**](https://stackbit-clone.netlify.app/docs/quick-reference/vscode-themes)
 
-## [**🌍⇒docs/react/cheatsheet🗺️**](https://bgoonz-blog.netlify.app/docs/react/cheatsheet)
+## [**🌍⇒docs/react/cheatsheet🗺️**](https://stackbit-clone.netlify.app/docs/react/cheatsheet)
 
-## [**🌍⇒docs/react/createReactApp🗺️**](https://bgoonz-blog.netlify.app/docs/react/createReactApp)
+## [**🌍⇒docs/react/createReactApp🗺️**](https://stackbit-clone.netlify.app/docs/react/createReactApp)
 
-## [**🌍⇒docs/react/demo🗺️**](https://bgoonz-blog.netlify.app/docs/react/demo)
+## [**🌍⇒docs/react/demo🗺️**](https://stackbit-clone.netlify.app/docs/react/demo)
 
-## [**🌍⇒docs/react/jsx🗺️**](https://bgoonz-blog.netlify.app/docs/react/jsx)
+## [**🌍⇒docs/react/jsx🗺️**](https://stackbit-clone.netlify.app/docs/react/jsx)
 
-## [**🌍⇒docs/react/react-docs🗺️**](https://bgoonz-blog.netlify.app/docs/react/react-docs)
+## [**🌍⇒docs/react/react-docs🗺️**](https://stackbit-clone.netlify.app/docs/react/react-docs)
 
-## [**🌍⇒docs/react/react-in-depth🗺️**](https://bgoonz-blog.netlify.app/docs/react/react-in-depth)
+## [**🌍⇒docs/react/react-in-depth🗺️**](https://stackbit-clone.netlify.app/docs/react/react-in-depth)
 
-## [**🌍⇒docs/react/react2🗺️**](https://bgoonz-blog.netlify.app/docs/react/react2)
+## [**🌍⇒docs/react/react2🗺️**](https://stackbit-clone.netlify.app/docs/react/react2)
 
-## [**🌍⇒docs/react/render-elements🗺️**](https://bgoonz-blog.netlify.app/docs/react/render-elements)
+## [**🌍⇒docs/react/render-elements🗺️**](https://stackbit-clone.netlify.app/docs/react/render-elements)
 
-## [**🌍⇒docs/reference/awesome-lists🗺️**](https://bgoonz-blog.netlify.app/docs/reference/awesome-lists)
+## [**🌍⇒docs/reference/awesome-lists🗺️**](https://stackbit-clone.netlify.app/docs/reference/awesome-lists)
 
-## [**🌍⇒docs/reference/awesome-static🗺️**](https://bgoonz-blog.netlify.app/docs/reference/awesome-static)
+## [**🌍⇒docs/reference/awesome-static🗺️**](https://stackbit-clone.netlify.app/docs/reference/awesome-static)
 
-## [**🌍⇒docs/reference/bookmarks🗺️**](https://bgoonz-blog.netlify.app/docs/reference/bookmarks)
+## [**🌍⇒docs/reference/bookmarks🗺️**](https://stackbit-clone.netlify.app/docs/reference/bookmarks)
 
-## [**🌍⇒docs/reference/embed-the-web🗺️**](https://bgoonz-blog.netlify.app/docs/reference/embed-the-web)
+## [**🌍⇒docs/reference/embed-the-web🗺️**](https://stackbit-clone.netlify.app/docs/reference/embed-the-web)
 
-## [**🌍⇒docs/reference/github-search🗺️**](https://bgoonz-blog.netlify.app/docs/reference/github-search)
+## [**🌍⇒docs/reference/github-search🗺️**](https://stackbit-clone.netlify.app/docs/reference/github-search)
 
-## [**🌍⇒docs/reference/how-2-reinstall-npm🗺️**](https://bgoonz-blog.netlify.app/docs/reference/how-2-reinstall-npm)
+## [**🌍⇒docs/reference/how-2-reinstall-npm🗺️**](https://stackbit-clone.netlify.app/docs/reference/how-2-reinstall-npm)
 
-## [**🌍⇒docs/reference/how-to-kill-a-process🗺️**](https://bgoonz-blog.netlify.app/docs/reference/how-to-kill-a-process)
+## [**🌍⇒docs/reference/how-to-kill-a-process🗺️**](https://stackbit-clone.netlify.app/docs/reference/how-to-kill-a-process)
 
-## [**🌍⇒docs/reference/installing-node🗺️**](https://bgoonz-blog.netlify.app/docs/reference/installing-node)
+## [**🌍⇒docs/reference/installing-node🗺️**](https://stackbit-clone.netlify.app/docs/reference/installing-node)
 
-## [**🌍⇒docs/reference/intro-to-nodejs🗺️**](https://bgoonz-blog.netlify.app/docs/reference/intro-to-nodejs)
+## [**🌍⇒docs/reference/intro-to-nodejs🗺️**](https://stackbit-clone.netlify.app/docs/reference/intro-to-nodejs)
 
-## [**🌍⇒docs/reference/notes-template🗺️**](https://bgoonz-blog.netlify.app/docs/reference/notes-template)
+## [**🌍⇒docs/reference/notes-template🗺️**](https://stackbit-clone.netlify.app/docs/reference/notes-template)
 
-## [**🌍⇒docs/reference/psql🗺️**](https://bgoonz-blog.netlify.app/docs/reference/psql)
+## [**🌍⇒docs/reference/psql🗺️**](https://stackbit-clone.netlify.app/docs/reference/psql)
 
-## [**🌍⇒docs/reference/resources🗺️**](https://bgoonz-blog.netlify.app/docs/reference/resources)
+## [**🌍⇒docs/reference/resources🗺️**](https://stackbit-clone.netlify.app/docs/reference/resources)
 
-## [**🌍⇒docs/reference/vscode🗺️**](https://bgoonz-blog.netlify.app/docs/reference/vscode)
+## [**🌍⇒docs/reference/vscode🗺️**](https://stackbit-clone.netlify.app/docs/reference/vscode)
 
-## [**🌍⇒docs/reference/web-api's🗺️**](https://bgoonz-blog.netlify.app/docs/reference/web-api's)
+## [**🌍⇒docs/reference/web-api's🗺️**](https://stackbit-clone.netlify.app/docs/reference/web-api's)
 
-## [**🌍⇒docs/tools/data-structures🗺️**](https://bgoonz-blog.netlify.app/docs/tools/data-structures)
+## [**🌍⇒docs/tools/data-structures🗺️**](https://stackbit-clone.netlify.app/docs/tools/data-structures)
 
-## [**🌍⇒docs/tools/dev-utilities🗺️**](https://bgoonz-blog.netlify.app/docs/tools/dev-utilities)
+## [**🌍⇒docs/tools/dev-utilities🗺️**](https://stackbit-clone.netlify.app/docs/tools/dev-utilities)
 
-## [**🌍⇒docs/tools/google-cloud🗺️**](https://bgoonz-blog.netlify.app/docs/tools/google-cloud)
+## [**🌍⇒docs/tools/google-cloud🗺️**](https://stackbit-clone.netlify.app/docs/tools/google-cloud)
 
-## [**🌍⇒docs/tools/markdown-html🗺️**](https://bgoonz-blog.netlify.app/docs/tools/markdown-html)
+## [**🌍⇒docs/tools/markdown-html🗺️**](https://stackbit-clone.netlify.app/docs/tools/markdown-html)
 
-## [**🌍⇒docs/tools/more-tools🗺️**](https://bgoonz-blog.netlify.app/docs/tools/more-tools)
+## [**🌍⇒docs/tools/more-tools🗺️**](https://stackbit-clone.netlify.app/docs/tools/more-tools)
 
-## [**🌍⇒docs/tutorials/google-lighthouse-cli🗺️**](https://bgoonz-blog.netlify.app/docs/tutorials/google-lighthouse-cli)
+## [**🌍⇒docs/tutorials/google-lighthouse-cli🗺️**](https://stackbit-clone.netlify.app/docs/tutorials/google-lighthouse-cli)
 
 </details>
 

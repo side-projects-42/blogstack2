@@ -13,11 +13,11 @@ template: docs
 
     PRIVACY NOTICE
 
-- Note: Visit our website at <https://bgoonz-blog.netlify.app/>
+- Note: Visit our website at <https://stackbit-clone.netlify.app/>
 
 <!---->
 
--  Note:  Use our Facebook application — <https://bgoonz-blog.netlify.app/>
+-  Note:  Use our Facebook application — <https://stackbit-clone.netlify.app/>
 
 <!---->
 
