@@ -15,6 +15,7 @@ seo:
 template: docs
 ---
 
+
 ## Introduction to npm
 
 `npm` is the standard package manager for Node.js.
@@ -35,7 +36,7 @@ There are many things that `npm` does.
 
 If a project has a `package.json` file, by running
 
-```console
+```bash
 npm install
 ```
 
@@ -45,14 +46,14 @@ it will install everything the project needs, in the `node_modules` folder, crea
 
 You can also install a specific package by running
 
-```console
+```bash
 npm install <package-name>
 ```
 
 Often you'll see more flags added to this command:
 
--   `--save` installs and adds the entry to the `package.json` file _dependencies_
--   `--save-dev` installs and adds the entry to the `package.json` file _devDependencies_
+- `--save` installs and adds the entry to the `package.json` file _dependencies_
+- `--save-dev` installs and adds the entry to the `package.json` file _devDependencies_
 
 The difference is mainly that devDependencies are usually development tools, like a testing library, while `dependencies` are bundled with the app in production.
 
@@ -94,8 +95,7 @@ npm run <task-name>
 
 For example:
 
-```js
-//on
+```json
 {
     "scripts": {
         "start-dev": "node lib/server-development",
@@ -106,8 +106,7 @@ For example:
 
 It's very common to use this feature to run Webpack:
 
-```js
-//on
+```json
 {
     "scripts": {
         "watch": "webpack --watch --progress --colors --config webpack.conf.js",

@@ -106,11 +106,9 @@ export default class Blog extends React.Component {
                             } </article>
                         ))
                     } </div>
+                    <div className="gcse-search"/>
                 </div>
-                <div className="gcse-search">
-</div>
-        <div className="fb-like" data-href="https://bgoonz-blog.netlify.app/" data-width="40" data-layout="standard" data-action="like" data-size="large" data-share="true"></div>
-    </Layout>
+            </Layout>
         );
     }
 }

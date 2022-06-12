@@ -45,7 +45,6 @@ Boundaries that should be awared of:
 - It should be `p1.next` touches the end rather than `p1` because we want `p1` pointing at the last node.
 
 ```js
-//
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {

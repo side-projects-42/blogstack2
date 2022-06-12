@@ -37,7 +37,6 @@ For example, given n = 3, a solution set is:
 Recursive DFS backtracking.
 
 ```js
-//
 /**
  * @param {number} n
  * @return {string[]}
@@ -71,7 +70,6 @@ function dfs(n, nopen, nclose, path, result) {
 BFS.
 
 ```js
-//
 /**
  * @param {number} n
  * @return {string[]}

@@ -14,7 +14,6 @@ template: docs
 ### Question: How to get the file extension?
 
 ```js
-//
 var file1 = '50.xsl';
 var file2 = '30.doc';
 getFileExtension(file1); //returs xsl
@@ -31,7 +30,6 @@ function getFileExtension(filename) {
 
 
 ```js
-//
 
 
 function getFileExtension1(filename) {
@@ -45,7 +43,6 @@ function getFileExtension1(filename) {
 
 
 ```js
-//
 
 
 function getFileExtension2(filename) {
@@ -61,7 +58,6 @@ Those two solutions couldnot handle some edge cases, here is another more robust
 
 
 ```js
-//
 
 
 function getFileExtension3(filename) {

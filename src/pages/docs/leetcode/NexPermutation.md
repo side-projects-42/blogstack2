@@ -39,7 +39,6 @@ Reverse the second half and find the smallest number in it that is greater the l
 Swap the two.
 
 ```js
-//
 /**
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.

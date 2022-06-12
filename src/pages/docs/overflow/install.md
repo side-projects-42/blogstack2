@@ -25,6 +25,7 @@ seo:
 template: docs
 ---
 
+
 Node.js can be installed in different ways. This post highlights the most common and convenient ones.
 
 Official packages for all the major platforms are available at <https://nodejs.org/en/download/>.
@@ -33,7 +34,7 @@ One very convenient way to install Node.js is through a package manager. In this
 
 On macOS, [Homebrew](https://brew.sh/) is the de-facto standard, and - once installed - allows you to install Node.js very easily, by running this command in the CLI:
 
-```console
+```bash
 brew install node
 ```
 
