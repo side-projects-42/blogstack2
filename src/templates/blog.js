@@ -15,7 +15,7 @@ export const query = graphql `
 `;
 export default class Blog extends React.Component {
     render() {
-        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
+        const display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
                 <header className="page-header has-gradient outer">
@@ -106,9 +106,11 @@ export default class Blog extends React.Component {
                             } </article>
                         ))
                     } </div>
-                    <div className="gcse-search"/>
                 </div>
-            </Layout>
+                <div className="gcse-search">
+</div>
+        <div className="fb-like" data-href="https://bgoonz-blog.netlify.app/" data-width="40" data-layout="standard" data-action="like" data-size="large" data-share="true"></div>
+    </Layout>
         );
     }
 }

@@ -1,7 +1,8 @@
-window.onGatsbyRouteUpdate = function () {
-  window.addMainNavigationHandlers();
-  window.addAnnouncementHandlers();
-  window.addVideoEmbedsHandlers();
-  window.addDocsNavigationHandlers();
-  window.addPageNavLinks();
+/* eslint-disable no-undef */
+window.onGatsbyRouteUpdate = function() {
+    window.addMainNavigationHandlers();
+    window.addAnnouncementHandlers();
+    window.addVideoEmbedsHandlers();
+    window.addDocsNavigationHandlers();
+    window.addPageNavLinks();
 };
