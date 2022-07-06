@@ -52,11 +52,11 @@ typings/
 *.tgz
 
 # dotenv environment variables file
+.env
 
 
 # gatsby files
-# .cache/
-# public
+
 
 # Mac files
 .DS_Store
@@ -71,5 +71,6 @@ yarn-error.log
 node_modules/
 
 
-*.cache
 
+
+package.lock.json
