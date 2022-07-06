@@ -11,7 +11,7 @@ seo:
 template: docs
 ---
 
-# [⇨WEBSITE🗺️⇦](https://stackbit-clone.netlify.app/)
+# [⇨WEBSITE🗺️⇦](https://bgoonz-blog.netlify.app/)
 
 ##### [⇨Privacy policy⇦](https://codepen.io/bgoonz/pen/LYLJZrW)
 

@@ -60,7 +60,7 @@ export default class Header extends React.Component {
                                                                 'menu-button': _.get(action, 'style', null) !== 'link'
                                                             })
                                                     }>
-                                                        <ActionLink {...this.props}
+                                                        <ActionLink { ...this.props }
                                                             action={action}/> {
                                                         _.get(action, 'has_subnav', null) && _.get(action, 'subnav_links', null) && (
                                                             <React.Fragment>
@@ -68,7 +68,7 @@ export default class Header extends React.Component {
                                                                     <span className="icon-angle-right" aria-hidden="true"/>
                                                                     <span className="screen-reader-text">Sub-menu</span>
                                                                 </button>
-                                                                <Submenu {...this.props}
+                                                                <Submenu { ...this.props }
                                                                     submenu={
                                                                         _.get(action, 'subnav_links', null)
                                                                     }
@@ -93,28 +93,14 @@ export default class Header extends React.Component {
                     } </div>
                 </div>
                 <>
-                    <div id="sb-search-input-example"
-                        style={
-                            {
-                                zIndex: 100,
-                                color: '#fff',
-                                position: 'absolute',
-                                top: '200px',
-                                border: 1,
-                                left: '200px'
-                            }
-                    }>
-                        <div className="sb-content sb-hero">
-                            <div className="sb-search sb-hero">
-                                <div className="sb-input">
-                                    <input className="sb-search-field" name="pesquisa" placeholder="Type your search..." type="search" autoComplete="on" id="myCustomTextInputID"/>
-                                    <div className="sb-search-icon" id="myCustomSearchButtonID">
-                                        <i className="sb-icon"></i>
-                                    </div>
-                                </div>
-                            </div>
+                    <div id="sb-search-example">
+                        <div className="sb-search-icon" id="myCustomSearchButtonID">
+                            <i className="sb-icon"></i>
+                            <p>Search</p>
                         </div>
-                        <div id="search"></div>
+                        <style dangerouslySetInnerHTML={
+                            {__html: "\n\t\t@font-face {\n            font-family: font-sb;\n            src: url(https://api.searchbar.org/fonts/sb.eot?39450784);\n            src: url(https://api.searchbar.org/fonts/sb.eot?39450784#iefix) format('embedded-opentype'), url(https://api.searchbar.org/fonts/sb.woff?39450784) format('woff'), url(https://api.searchbar.org/fonts/?39450784) format('truetype'), url(https://api.searchbar.org/fonts/sb.svg?39450784#font-sb) format('svg');\n            font-weight: 400;\n            font-style: normal\n        }\n\n        #sb-search-example p {\n            font-family: sans-serif;\n            font-size: 18px;\n            line-height: 12px;\n\t        margin: 0;\n        }\n\n        #sb-search-example {\n            position: static;\n            top: 0;\n            width: auto;\n            place-content: center;\n            display: inline-block;\n            box-shadow: 0px 2px 4px rgba(190, 190, 190, 0.5);\n            border: solid 5px white;\n            border-radius: 100px;\n            flex-shrink: initial;\n            flex-grow: initial;\n        }\n\n\n        #sb-search-example .sb-icon {\n            font: normal normal 400 26px font-sb;\n            align-items: center;\n            padding: 10px;\n            speak: none;\n            display: inline-block;\n            text-decoration: inherit;\n            text-align: center;\n            text-transform: none;\n            cursor: pointer;\n            margin: 0;\n        }\n\n        #sb-search-example .sb-search-icon {\n            box-sizing: border-box;\n            border: 0px;\n            align-items: center;\n            background: #007cff;\n            color: #fff;\n            cursor: pointer;\n            display: flex;\n            border-radius: 26px;\n            padding: 0 20px 0 4px;\n        }\n\t"}
+                        }/>
                     </div>
                 </>
 
@@ -136,7 +122,7 @@ export default class Header extends React.Component {
                             }
                     }>
                         <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
-                        <path className={'octo-arm'}
+                        <path className={"octo-arm"}
                             d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
                             fill="currentColor"
                             style={
@@ -149,4 +135,3 @@ export default class Header extends React.Component {
         );
     }
 }
-
