@@ -4,6 +4,12 @@
 
 ### [Github Org Link](https://github.com/BGOOONZ-BLOG/)
 
+
+blogstack2-579f9.netlify.app
+
+
+https://app.stackbit.com/studio/62a579f90f759800c0f2093d/
+
 </div>
 
 
