@@ -6,6 +6,9 @@
 
 </div>
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2477c00b-1a18-4ad3-a711-cb15d9772aa8/deploy-status)](https://app.netlify.com/sites/stackbit-clone/deploys)
+
 ---
 
 ## [CHANGELOG](./CHANGELOG.md)
